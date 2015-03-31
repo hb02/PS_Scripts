@@ -20,5 +20,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.ps1diff
-*.ps1text
+*.ps1 diff=astextplain
+*.ps1 diff=text
